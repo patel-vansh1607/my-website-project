@@ -200,3 +200,16 @@ section {
 .about {
     background: linear-gradient(45deg, #1e3c72, #2a5298); 
 }
+
+.about h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #ffd700; 
+}
+
+.about p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto;
+}
