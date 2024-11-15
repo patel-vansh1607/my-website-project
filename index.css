@@ -7,6 +7,11 @@ body, html {
     background: #0f0f0f; 
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .profile-container {
     position: absolute;
     top: 160px; 
