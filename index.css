@@ -213,3 +213,26 @@ section {
     max-width: 800px;
     margin: 0 auto;
 }
+
+.portfolio {
+    background: #1c1c1c; 
+}
+
+.portfolio h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #ffd700;
+}
+
+.portfolio .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.portfolio .card {
+    background: #282828;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
