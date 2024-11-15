@@ -122,3 +122,23 @@ body, html {
 .service-card p {
     font-size: 0.95em;
 }
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #000;
+    color: #ffd700;
+}
+
+
+
+section {
+    padding: 60px 20px;
+    text-align: center;
+    color: #fff;
+}
+
+
+.about {
+    background: linear-gradient(45deg, #1e3c72, #2a5298); 
+}
