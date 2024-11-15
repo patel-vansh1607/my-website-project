@@ -7,6 +7,20 @@ body, html {
     background: #0f0f0f; 
 }
 
+.btn {
+    background: #ffd700;
+    color: #0f0f0f;
+    padding: 12px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    background: #fff;
+    color: #ff5f6d;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
