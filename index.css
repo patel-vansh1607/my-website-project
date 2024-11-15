@@ -258,3 +258,42 @@ section {
     padding: 0 10px 20px;
     font-size: 0.95em;
 }
+
+.contact {
+    background: linear-gradient(45deg, #ff5f6d, #ffc371); 
+}
+
+.contact h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.contact p {
+    font-size: 1.1em;
+    margin-bottom: 30px;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+.contact .btn {
+    background: #ffd700;
+    color: #0f0f0f;
+    padding: 12px 25px;
+    border-radius: 30px;
+    transition: 0.3s ease-in-out;
+}
+
+.contact .btn:hover {
+    background: #fff;
+    color: #ff5f6d;
+}
+
+footer {
+    background: #000;
+    color: #ffd700;
+    padding: 15px;
+    font-size: 0.9em;
+    text-align: center;
+}
