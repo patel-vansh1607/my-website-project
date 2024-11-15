@@ -112,3 +112,13 @@ body, html {
     background: #ffd700;
     color: #0f0f0f;
 }
+
+.service-card h3 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: inherit;
+}
+
+.service-card p {
+    font-size: 0.95em;
+}
